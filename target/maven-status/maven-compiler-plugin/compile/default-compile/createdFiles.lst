@@ -1,0 +1,4 @@
+com\example\rabbitmq\MQConnection.class
+com\example\rabbitmq\MQWriteChannel.class
+com\example\rabbitmq\publisher\MQPublisher.class
+com\example\Main.class
